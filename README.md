@@ -10,17 +10,17 @@ AI моделът е написан в jupyter notebook и има комента
 **Задача 2:**
 Скрейпъра работи само със сайта job.bg. Кодът е коментиран.
 Скрейпнатите полета са:
-  URL
-  Company
-  Title
-  Location
-  Salary Min
-  Salary Max
-  Date
-  Work
-  Schedule
-  School
-  Experience
+  URL,
+  Company,
+  Title,
+  Location,
+  Salary Min,
+  Salary Max,
+  Date,
+  Work,
+  Schedule,
+  School,
+  Experience,
   Description
 
 
